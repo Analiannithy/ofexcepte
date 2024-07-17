@@ -1,0 +1,1 @@
+" ".join(current_text)
